@@ -4,7 +4,7 @@
   "description": "Simple but useful stubbing solution React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kadirahq/react-stubber"
+    "url": "https://github.com/storybooks/react-stubber"
   },
   "license": "MIT",
   "scripts": {
